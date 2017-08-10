@@ -12,3 +12,5 @@ This change fixes issues #1, #2, #3
 -------------
 ## Change 3.1
 
+-------------
+Just more changes.

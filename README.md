@@ -14,3 +14,9 @@ This change fixes issues #1, #2, #3
 
 -------------
 Just more changes.
+
+               -----
+             -- - - --
+             --  |  --
+             --  O  --
+               -----

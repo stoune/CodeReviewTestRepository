@@ -27,4 +27,6 @@ Just more changes.
 1. Atom Editor
 1. Visual Studio Code
 1. Sublime
+1. E-TextEditor
+
 
